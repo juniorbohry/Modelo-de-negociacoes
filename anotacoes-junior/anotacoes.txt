@@ -1,0 +1,7 @@
+**aula que tem o resumo de como inicar o typescript: https://cursos.alura.com.br/course/typescript-evoluindo-javascript/task/91970
+
+**dentro da pasta dist ficam todos arquivos disponiveis para o navegador.
+** para compartilhas essa pasta tem q ir no packjason e criar um script chamado server. obs: usar no terminal o npm run server.
+
+
+**O atributo type="module" indica para o navegador que o arquivo a carregado deve ser tratado com um módulo e não um script.
